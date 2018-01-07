@@ -13,7 +13,7 @@ source: https://leetcode.com/problems/evaluate-reverse-polish-notation/descripti
 Day 4 - Two Sum (C++, Java)  
 source: https://leetcode.com/problems/two-sum/description/  
 
-Day 5 - Letter Combinations of a Phone Number(Java)  
+Day 5 - Letter Combinations of a Phone Number(C++, Java)  
 source: https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/  
 
 Day 6 - Word Pattern(Java)  
