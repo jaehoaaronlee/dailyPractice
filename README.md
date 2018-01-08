@@ -16,5 +16,5 @@ source: https://leetcode.com/problems/two-sum/description/
 Day 5 - Letter Combinations of a Phone Number(C++, Java)  
 source: https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/  
 
-Day 6 - Word Pattern(Java)  
+Day 6 - Word Pattern(C++, Java)  
 source: https://leetcode.com/problems/word-pattern/description/  
