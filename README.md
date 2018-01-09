@@ -19,5 +19,5 @@ source: https://leetcode.com/problems/letter-combinations-of-a-phone-number/desc
 Day 6 - Word Pattern(C++, Java)  
 source: https://leetcode.com/problems/word-pattern/description/  
 
-Day 7 - Game of Life(Java)  
+Day 7 - Game of Life(C++, Java)  
 source: https://leetcode.com/problems/game-of-life/description/  
