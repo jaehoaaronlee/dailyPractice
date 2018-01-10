@@ -24,3 +24,6 @@ source: https://leetcode.com/problems/game-of-life/description/
 
 Day 8 - Generate Parentheses(C++, Java)  
 source: https://leetcode.com/problems/generate-parentheses/description/  
+
+Day 9 - Next Permutation(C++)  
+source: https://leetcode.com/problems/next-permutation/description/  
