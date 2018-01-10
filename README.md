@@ -1,29 +1,29 @@
 # dailyPractice  
 Daily Practice on Leetcode/Hackerrank/etc  
 
-Day 1 - Balanced Brackets (Java)  
+Day 01 - Balanced Brackets (Java)  
 source: https://www.hackerrank.com/challenges/ctci-balanced-brackets/problem  
 
-Day 2 - Add Two Numbers (C)  
+Day 02 - Add Two Numbers (C)  
 source: https://leetcode.com/problems/add-two-numbers/description/  
 
-Day 3 - Evaluate Reverse Polish Notation (Java)  
+Day 03 - Evaluate Reverse Polish Notation (Java)  
 source: https://leetcode.com/problems/evaluate-reverse-polish-notation/description/  
 
-Day 4 - Two Sum (C++, Java)  
+Day 04 - Two Sum (C++, Java)  
 source: https://leetcode.com/problems/two-sum/description/  
 
-Day 5 - Letter Combinations of a Phone Number(C++, Java)  
+Day 05 - Letter Combinations of a Phone Number(C++, Java)  
 source: https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/  
 
-Day 6 - Word Pattern(C++, Java)  
+Day 06 - Word Pattern(C++, Java)  
 source: https://leetcode.com/problems/word-pattern/description/  
 
-Day 7 - Game of Life(C++, Java)  
+Day 07 - Game of Life(C++, Java)  
 source: https://leetcode.com/problems/game-of-life/description/  
 
-Day 8 - Generate Parentheses(C++, Java)  
+Day 08 - Generate Parentheses(C++, Java)  
 source: https://leetcode.com/problems/generate-parentheses/description/  
 
-Day 9 - Next Permutation(C++)  
+Day 09 - Next Permutation(C++)  
 source: https://leetcode.com/problems/next-permutation/description/  
