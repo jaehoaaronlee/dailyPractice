@@ -21,3 +21,6 @@ source: https://leetcode.com/problems/word-pattern/description/
 
 Day 7 - Game of Life(C++, Java)  
 source: https://leetcode.com/problems/game-of-life/description/  
+
+Day 8 - Generate Parentheses(C++, Java)  
+source: https://leetcode.com/problems/generate-parentheses/description/  
