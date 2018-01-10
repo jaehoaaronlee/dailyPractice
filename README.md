@@ -27,3 +27,6 @@ source: https://leetcode.com/problems/generate-parentheses/description/
 
 Day 09 - Next Permutation(C++)  
 source: https://leetcode.com/problems/next-permutation/description/  
+
+Day 10 - License Key Formatting(C++)  
+source: https://leetcode.com/problems/license-key-formatting/description/  
