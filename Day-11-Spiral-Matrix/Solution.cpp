@@ -6,8 +6,8 @@ public:
         if(matrix.size() == 0)
             return sol;
 
-        int r1 = 0, r2 = matrix.size() -1;
-        int c1 = 0, c2 = matrix[0].size() -1;
+        int r1 = 0, r2 = matrix.size() - 1;
+        int c1 = 0, c2 = matrix[0].size() - 1;
         
         while(r1 <= r2 && c1 <= c2) {
             for(int c = c1; c <= c2; ++c)
