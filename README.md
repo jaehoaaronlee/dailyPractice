@@ -33,3 +33,6 @@ source: https://leetcode.com/problems/license-key-formatting/description/
 
 Day 11 - Spiral Matrix(C++)  
 source: https://leetcode.com/problems/spiral-matrix/description/  
+
+Day 12 - Longest Palindrome(C++)  
+source: https://leetcode.com/problems/longest-palindrome/description/  
