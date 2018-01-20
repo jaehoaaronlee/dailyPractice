@@ -39,3 +39,6 @@ source: https://leetcode.com/problems/longest-palindrome/description/
 
 Day 13 - LRU Cache(C++)  
 source: https://leetcode.com/problems/lru-cache/description/  
+
+Day 14 - Largest Number(C++)  
+source: https://leetcode.com/problems/largest-number/description/  
