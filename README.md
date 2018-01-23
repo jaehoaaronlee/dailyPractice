@@ -45,3 +45,6 @@ source: https://leetcode.com/problems/largest-number/description/
 
 Day 15 - Reverse Nodes in k-Group(C++)  
 source: https://leetcode.com/problems/reverse-nodes-in-k-group/description/  
+
+Day 16 - Cherry Pickup(C++)  
+source: https://leetcode.com/problems/cherry-pickup/description/  
