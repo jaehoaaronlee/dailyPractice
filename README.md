@@ -1,4 +1,4 @@
-# dailyPractice  
+# Daily Practice  
 Daily Practice on Leetcode/Hackerrank/etc  
 
 Day 01 - Balanced Brackets (Java)  
@@ -51,3 +51,6 @@ source: https://leetcode.com/problems/cherry-pickup/description/
 
 Day 17 - Minimum Genetic Mutation(C++)  
 source: https://leetcode.com/problems/minimum-genetic-mutation/description/  
+
+Day 18 - ZigZag Conversion(C++)  
+source: https://leetcode.com/problems/zigzag-conversion/description/  
