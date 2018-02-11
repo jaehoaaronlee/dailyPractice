@@ -54,3 +54,6 @@ source: https://leetcode.com/problems/minimum-genetic-mutation/description/
 
 Day 18 - ZigZag Conversion(C++)  
 source: https://leetcode.com/problems/zigzag-conversion/description/  
+
+Day 19 - Palindromic Substrings(C++)  
+source: https://leetcode.com/problems/palindromic-substrings/description/  
