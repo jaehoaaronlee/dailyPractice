@@ -57,3 +57,6 @@ source: https://leetcode.com/problems/zigzag-conversion/description/
 
 Day 19 - Palindromic Substrings(C++)  
 source: https://leetcode.com/problems/palindromic-substrings/description/  
+
+Day 20 - Longest Palindromic Substring(C++)  
+source: https://leetcode.com/problems/longest-palindromic-substring/description/  
